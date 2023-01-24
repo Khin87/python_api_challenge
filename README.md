@@ -32,7 +32,6 @@ Narrow down the DataFrame to find your ideal weather condition.
 Using Google Places API to find the first hotel for each city located within 10000 meters of your coordinates.
 
 Requirements:
-Install citypy in your python environment (https://pypi.python.org/pypi/citipy)
 OpenWeatherMap API Key (https://openweathermap.org/) as 'weather_api_key'
-Google API Key (https://console.developers.google.com/getting-started) as 'g_key'
+Google API Key (https://geoapify.com) as 'geoapify_key'
 Create API Keys and store it in the 'api_keys.py' file before running the Jupyter notebooks.
